@@ -1,0 +1,25 @@
+body{
+    margin: 0%;
+   background-color: rgb(202, 47, 47);
+}
+#wrapper{
+    display:flex;
+    align-items: center;
+    margin-left: 500px;
+    border:2px solid ; 
+    background: linear-gradient(90deg, rgb(211, 189, 199) 0%, rgb(231, 127, 67) 35%, rgb(221, 219, 109) 100%);
+    width: 300px;
+    padding: 6vh;
+    font-size: 45px;
+    margin-top: 50vh;
+    border: 10px ridge;
+
+    
+}
+h1{ 
+   position:absolute;
+    margin-left: 550px;
+    margin-top: -100px;
+    color: rgb(229, 176, 240);
+    
+}
